@@ -1,0 +1,12 @@
+Package: SingleCellPipeline
+Type: Package
+Title: Pipeline for single cell analysis
+Version: 0.1.0
+Author: Yuya Sato
+Maintainer: Yuya Sato <yu.pisces.556223@akane.waseda.jp>
+Description: 
+    Integrated analysis library of multiple (or single) single cell data
+    GSEA, trajectory analysis, etc...
+License: Creative Commons
+Encoding: UTF-8
+LazyData: true
